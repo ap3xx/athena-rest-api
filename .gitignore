@@ -1,0 +1,22 @@
+#Developing files
+input
+output
+credentials
+*.ipynb
+
+#Java
+target
+
+#Python
+__pycache__
+
+#MacOSx
+.DS_Store
+
+#IDE
+.vscode
+.idea
+
+#Terraform
+*.tfstate*
+.terraform
